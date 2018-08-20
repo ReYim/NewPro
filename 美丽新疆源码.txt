@@ -1,0 +1,339 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<title>首页实战</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="布尔教育 http://www.itbool.com" />
+<link rel="stylesheet" href="chushihu.css" />
+<style>
+
+    .clr
+    {
+        clear: both;
+        height: 0px;
+        width: 0px;
+    }
+     #container
+    {
+        margin: 0 auto;
+        width: 1002px;
+    }
+    #header
+    {
+        height: 125px;
+        background:gray url(kongbai.jpg);
+    }
+
+    #nav li
+    {
+        width: 90px;
+        margin-right: 1px;
+       float: left;
+    }
+    #nav a
+    {
+    color: #363636;
+    /*font-size: 16px;
+    line-height: 37px;
+    font-family: '微软雅黑';*/
+    font:16px/37px '微软雅黑','黑体',sans-serif;
+    width: 90px;
+    height: 37px;
+    text-align: center;
+    display: block;
+    }
+    #nav a:hover
+    {
+        color:white;
+        background: url(nav_on.gif);
+    }
+
+    #banner
+    {
+        margin: 6px 0px;
+    }
+
+    #main
+    {
+        
+    }
+
+    .subtitle
+    {
+        height: 37px;
+        background: gray url(index_main_top_bg.gif);
+    }
+
+    .subtitle img
+    {
+        margin: 5px 0 0 10px;
+        float: left;
+    }
+ 
+    .subtitle h1
+    {
+        color: #151515;
+        float: left;
+        margin-left:10px; 
+        font: 16px/37px 'Microsoft Yahei' , SimHei , sans-serif;
+    }
+
+    .subtitle a
+    {
+        display: block;
+        color: #888;
+        font: 12px/37px Simsun,sans-serif;
+        float: right;
+    }
+
+
+    .four
+    {
+        width: 326px;
+        height: 200px;
+        background: #EEE;
+        margin: 10px;
+        float: left;
+        _display:inline;
+    }
+
+    .four img
+    {
+        float: left;
+        margin-left: 10px;
+        padding: 6px;
+        background: white;
+    }
+
+    .four ul
+    {
+        float: left;
+        margin-left: 10px;
+    }
+
+    .four li
+    {
+        background:url(service_intro_bg.gif) no-repeat;
+        padding-left: 10px;
+        height: 25px;
+    }
+
+    .four a
+    {
+        font-size: 12px;
+        color: #888;
+    }
+
+    .four a:visited
+    {
+        color: #808080;
+    }
+
+    .four a:hover
+    {
+        color: #FF832C;   
+    }
+
+    .four h2
+    {
+        color: #A0A0A0;
+        margin: 6px 0 6px 10px;
+        font-size: 16px;
+        font-family:'Microsoft Yahei' , SimHei , sans-serif;   
+    }
+
+
+
+    #lsize
+    {
+        height: 480px;
+        width: 694px;
+        border:1px solid #EEE;
+        float: left;
+        border-top: none;
+    }
+
+    #rsize
+    {
+        
+        width: 294px;
+        float: right;
+    }
+
+    #art
+    {
+        margin-top: 1px;
+        padding-top: 10px;
+        background: #EEE;
+    }
+
+    #art a
+    {
+        font-size: 12px;
+        color: #888;
+        display: block;
+        background: url(article_head.gif) no-repeat;
+        height: 29px;
+        padding-left: 20px;
+        line-height: 29px;
+    }
+
+    #art a:hover
+    {
+        color: #FF832C;
+        background: url(article_on_bg.gif);
+    }
+
+    #contact
+    {
+        margin-top: 1px;
+        height: 249px;
+        background: #EEE;
+    }
+
+    #footer
+    {
+        margin-top: 15px;
+        height: 120px;
+    }
+
+  #footer ul
+    {
+        height: 40px;
+        background: #EEE;
+    }
+
+    #footer li
+    {
+        font-size: 12px;
+        margin: 10px;
+        margin-top: 10px;
+        float: left;
+    }
+
+    #footer address
+
+    {
+        margin-top: 10px;
+        font-size: 12px;
+        font-family: '微软雅黑',sans-serif;
+    }
+
+    #footer a
+    {
+        color:black;
+    }
+
+       #footer a:hover
+    {
+        background-color: orange;
+    }
+
+</style>
+</head>
+    <body>
+    	<div id="container">
+    		<div id="header">
+                <img src="xjtv logo.png" alt="logo" />
+    			<ul id="nav">
+                    <li><a href="#">新疆新闻    </a></li>
+                    <li><a href="#">新疆特产    </a></li>
+                    <li><a href="#">新疆景点    </a></li>
+                    <li><a href="#">新疆乌市    </a></li>
+                    <li><a href="#">新疆哈密    </a></li>
+                    <li><a href="#">新疆和田    </a></li>
+    			</ul>
+    		</div>
+            <img src="hongshan.png" alt="" id="banner"/>
+    		<div id="main">
+    			<div id="lsize">
+    				<div class="subtitle">
+                        <img src="circle.gif" alt="" />
+                        <h1>新疆生活</h1>
+                        <a href="#">MORE&gt;&gt;</a>                         
+                    </div>
+    				<div class="four">
+                        <h2>疆内热点新闻</h2>
+                        <img src="aizaixinjiang.png" alt="" />
+                        <ul>
+                            <li><a href="">对口援疆工作..</a></li>
+                            <li><a href="">对口援疆工作..</a></li>
+                            <li><a href="">对口援疆工作..</a></li>
+                            <li><a href="">对口援疆工作..</a></li>
+                            <li><a href="">对口援疆工作..</a></li>
+                        </ul>            
+                    </div>
+                    <div class="four">
+                        <h2>首府乌鲁木齐新闻</h2>
+                        <img src="urumqi.png" alt="" />
+                        <ul>
+                            <li><a href="">乌鲁木齐迎来夏天</a></li>
+                            <li><a href="">乌鲁木齐迎来夏天</a></li>
+                            <li><a href="">乌鲁木齐迎来夏天</a></li>
+                            <li><a href="">乌鲁木齐迎来夏天</a></li>
+                            <li><a href="">乌鲁木齐迎来夏天</a></li>
+                        </ul>            
+                    </div>
+                    <div class="four">
+                        <h2>新疆影视明星</h2>
+                        <img src="dilraba.png" alt="" />
+                        <ul>
+                            <li><a href="">热巴热剧21克拉..</a></li>
+                            <li><a href="">热巴热剧21克拉..</a></li>
+                            <li><a href="">热巴热剧21克拉..</a></li>
+                            <li><a href="">热巴热剧21克拉..</a></li>
+                            <li><a href="">热巴热剧21克拉..</a></li>
+                        </ul>            
+                    </div><div class="four">
+                        <h2>民族大团结一家亲</h2>
+                        <img src="56minzu.png" alt="" />
+                        <ul>
+                            <li><a href="">民族团结文艺活动</a></li>
+                            <li><a href="">民族团结文艺活动</a></li>
+                            <li><a href="">民族团结文艺活动</a></li>
+                            <li><a href="">民族团结文艺活动</a></li>
+                            <li><a href="">民族团结文艺活动</a></li>
+                        </ul>            
+                    </div>
+    			</div>
+    			<div id="rsize">
+    				<div class="subtitle">
+                        <img src="circle.gif" alt="" />
+                        <h1>实时新闻概览</h1>
+                        <a href="#">MORE&gt;&gt;</a>                        
+                    </div>
+    				<ul id="art">
+    				<li><a href="#">实时天气预报</a></li>
+                    <li><a href="#">端午节放假安排</a></li>
+                    <li><a href="#">乌鲁木齐房价</a></li>
+                    <li><a href="#">地铁工程进展</a></li>
+                    <li><a href="#">高考工作顺利结束</a></li>
+                    </ul>
+                      <div class="subtitle">
+                        <img src="circle.gif" alt="" />
+                        <h1>联系我们</h1>
+                        <a href="#">MORE&gt;&gt;</a>                        
+                    </div>
+                    <ul id="art">
+                    <li><a href="#">此处广告位招商</a></li>
+                    <div id="contact"></div>
+    			</div>
+                <div class="clr"></div>
+    		</div>
+
+    		<div id="footer">
+          <ul>
+                    <li><a href="">联系地址 | </a></li>
+                    <li><a href="">联系电话 | </a></li>
+                    <li><a href="">联系微信 | </a></li>
+                    <li><a href="">联系QQ号 | </a></li>
+                    <li><a href="">扫一扫码 | </a></li>
+                    <li><a href="">更多新闻 | </a></li>
+                    <li><a href="">反馈意见 | </a></li>
+                </ul>
+                    <address>2018-2019 不知名字的软件公司 版权所有  www.xinjiangvip.com
+                    ICP备2016150191</address>
+            </div>
+    	</div>
+    </body>
+</html>
