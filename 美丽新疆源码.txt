@@ -1,9 +1,9 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
 <head>
-<title>��ҳʵս</title>
+<title>首页实战</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="description" content="�������� http://www.itbool.com" />
+<meta name="description" content="布尔教育 http://www.itbool.com" />
 <link rel="stylesheet" href="chushihu.css" />
 <style>
 
@@ -35,8 +35,8 @@
     color: #363636;
     /*font-size: 16px;
     line-height: 37px;
-    font-family: '΢���ź�';*/
-    font:16px/37px '΢���ź�','����',sans-serif;
+    font-family: '微软雅黑';*/
+    font:16px/37px '微软雅黑','黑体',sans-serif;
     width: 90px;
     height: 37px;
     text-align: center;
@@ -216,7 +216,7 @@
     {
         margin-top: 10px;
         font-size: 12px;
-        font-family: '΢���ź�',sans-serif;
+        font-family: '微软雅黑',sans-serif;
     }
 
     #footer a
@@ -236,12 +236,12 @@
     		<div id="header">
                 <img src="xjtv logo.png" alt="logo" />
     			<ul id="nav">
-                    <li><a href="#">�½�����    </a></li>
-                    <li><a href="#">�½��ز�    </a></li>
-                    <li><a href="#">�½�����    </a></li>
-                    <li><a href="#">�½�����    </a></li>
-                    <li><a href="#">�½�����    </a></li>
-                    <li><a href="#">�½�����    </a></li>
+                    <li><a href="#">新疆新闻    </a></li>
+                    <li><a href="#">新疆特产    </a></li>
+                    <li><a href="#">新疆景点    </a></li>
+                    <li><a href="#">新疆乌市    </a></li>
+                    <li><a href="#">新疆哈密    </a></li>
+                    <li><a href="#">新疆和田    </a></li>
     			</ul>
     		</div>
             <img src="hongshan.png" alt="" id="banner"/>
@@ -249,73 +249,73 @@
     			<div id="lsize">
     				<div class="subtitle">
                         <img src="circle.gif" alt="" />
-                        <h1>�½�����</h1>
+                        <h1>新疆生活</h1>
                         <a href="#">MORE&gt;&gt;</a>                         
                     </div>
     				<div class="four">
-                        <h2>�����ȵ�����</h2>
+                        <h2>疆内热点新闻</h2>
                         <img src="aizaixinjiang.png" alt="" />
                         <ul>
-                            <li><a href="">�Կ�Ԯ������..</a></li>
-                            <li><a href="">�Կ�Ԯ������..</a></li>
-                            <li><a href="">�Կ�Ԯ������..</a></li>
-                            <li><a href="">�Կ�Ԯ������..</a></li>
-                            <li><a href="">�Կ�Ԯ������..</a></li>
+                            <li><a href="">对口援疆工作..</a></li>
+                            <li><a href="">对口援疆工作..</a></li>
+                            <li><a href="">对口援疆工作..</a></li>
+                            <li><a href="">对口援疆工作..</a></li>
+                            <li><a href="">对口援疆工作..</a></li>
                         </ul>            
                     </div>
                     <div class="four">
-                        <h2>�׸���³ľ������</h2>
+                        <h2>首府乌鲁木齐新闻</h2>
                         <img src="urumqi.png" alt="" />
                         <ul>
-                            <li><a href="">��³ľ��ӭ������</a></li>
-                            <li><a href="">��³ľ��ӭ������</a></li>
-                            <li><a href="">��³ľ��ӭ������</a></li>
-                            <li><a href="">��³ľ��ӭ������</a></li>
-                            <li><a href="">��³ľ��ӭ������</a></li>
+                            <li><a href="">乌鲁木齐迎来夏天</a></li>
+                            <li><a href="">乌鲁木齐迎来夏天</a></li>
+                            <li><a href="">乌鲁木齐迎来夏天</a></li>
+                            <li><a href="">乌鲁木齐迎来夏天</a></li>
+                            <li><a href="">乌鲁木齐迎来夏天</a></li>
                         </ul>            
                     </div>
                     <div class="four">
-                        <h2>�½�Ӱ������</h2>
+                        <h2>新疆影视明星</h2>
                         <img src="dilraba.png" alt="" />
                         <ul>
-                            <li><a href="">�Ȱ��Ⱦ�21����..</a></li>
-                            <li><a href="">�Ȱ��Ⱦ�21����..</a></li>
-                            <li><a href="">�Ȱ��Ⱦ�21����..</a></li>
-                            <li><a href="">�Ȱ��Ⱦ�21����..</a></li>
-                            <li><a href="">�Ȱ��Ⱦ�21����..</a></li>
+                            <li><a href="">热巴热剧21克拉..</a></li>
+                            <li><a href="">热巴热剧21克拉..</a></li>
+                            <li><a href="">热巴热剧21克拉..</a></li>
+                            <li><a href="">热巴热剧21克拉..</a></li>
+                            <li><a href="">热巴热剧21克拉..</a></li>
                         </ul>            
                     </div><div class="four">
-                        <h2>������Ž�һ����</h2>
+                        <h2>民族大团结一家亲</h2>
                         <img src="56minzu.png" alt="" />
                         <ul>
-                            <li><a href="">�����Ž����ջ</a></li>
-                            <li><a href="">�����Ž����ջ</a></li>
-                            <li><a href="">�����Ž����ջ</a></li>
-                            <li><a href="">�����Ž����ջ</a></li>
-                            <li><a href="">�����Ž����ջ</a></li>
+                            <li><a href="">民族团结文艺活动</a></li>
+                            <li><a href="">民族团结文艺活动</a></li>
+                            <li><a href="">民族团结文艺活动</a></li>
+                            <li><a href="">民族团结文艺活动</a></li>
+                            <li><a href="">民族团结文艺活动</a></li>
                         </ul>            
                     </div>
     			</div>
     			<div id="rsize">
     				<div class="subtitle">
                         <img src="circle.gif" alt="" />
-                        <h1>ʵʱ���Ÿ���</h1>
+                        <h1>实时新闻概览</h1>
                         <a href="#">MORE&gt;&gt;</a>                        
                     </div>
     				<ul id="art">
-    				<li><a href="#">ʵʱ����Ԥ��</a></li>
-                    <li><a href="#">����ڷżٰ���</a></li>
-                    <li><a href="#">��³ľ�뷿��</a></li>
-                    <li><a href="#">�������̽�չ</a></li>
-                    <li><a href="#">�߿�����˳������</a></li>
+    				<li><a href="#">实时天气预报</a></li>
+                    <li><a href="#">端午节放假安排</a></li>
+                    <li><a href="#">乌鲁木齐房价</a></li>
+                    <li><a href="#">地铁工程进展</a></li>
+                    <li><a href="#">高考工作顺利结束</a></li>
                     </ul>
                       <div class="subtitle">
                         <img src="circle.gif" alt="" />
-                        <h1>��ϵ����</h1>
+                        <h1>联系我们</h1>
                         <a href="#">MORE&gt;&gt;</a>                        
                     </div>
                     <ul id="art">
-                    <li><a href="#">�˴����λ����</a></li>
+                    <li><a href="#">此处广告位招商</a></li>
                     <div id="contact"></div>
     			</div>
                 <div class="clr"></div>
@@ -323,17 +323,83 @@
 
     		<div id="footer">
           <ul>
-                    <li><a href="">��ϵ��ַ | </a></li>
-                    <li><a href="">��ϵ�绰 | </a></li>
-                    <li><a href="">��ϵ΢�� | </a></li>
-                    <li><a href="">��ϵQQ�� | </a></li>
-                    <li><a href="">ɨһɨ�� | </a></li>
-                    <li><a href="">�������� | </a></li>
-                    <li><a href="">������� | </a></li>
+                    <li><a href="">联系地址 | </a></li>
+                    <li><a href="">联系电话 | </a></li>
+                    <li><a href="">联系微信 | </a></li>
+                    <li><a href="">联系QQ号 | </a></li>
+                    <li><a href="">扫一扫码 | </a></li>
+                    <li><a href="">更多新闻 | </a></li>
+                    <li><a href="">反馈意见 | </a></li>
                 </ul>
-                    <address>2018-2019 ��֪���ֵ�������˾ ��Ȩ����  www.xinjiangvip.com
-                    ICP��2016150191</address>
+                    <address>2018-2019 不知名字的软件公司 版权所有  www.xinjiangvip.com
+                    ICP备2016150191</address>
             </div>
     	</div>
     </body>
 </html>
+
+<!--web作业代码暂时放一下 -->
+
+
+
+<!--
+<!DOCTYPE html>
+<html>
+<head>
+	<title>
+		布局练习
+	</title>
+	<style>
+		#A
+		{
+			border:1px solid;
+			margin-top: 250px;
+			margin-left: 700px;
+			text-align:center;  
+			width: 500px;
+			height: 100px;
+			<!--background: blue;-->
+		}
+
+		#B
+		{
+			border-left:1px solid;
+			border-bottom: 1px solid; 
+			margin-top: 0px;
+			margin-left: 700px;			
+			text-align:center;  
+			width: 100px;
+			height: 300px;
+			float:left;
+			<!--background: red;-->
+		}
+
+		#C
+		{
+			border-right: 1px solid;
+			border-bottom: 1px solid;
+			border-left:1px solid; 
+			margin-top: 0px;
+			margin-left: 0px;			
+			text-align:center;  
+			width: 399px;
+			height: 300px;
+			float:left;
+			<!--background: green;-->
+		}		
+	</style>
+</head>
+
+<body>
+
+     <div id="A"> a </div>
+     	
+     <div id="B"> b </div>
+
+     <div id="C"> c </div>
+
+</body>
+</html>
+-->
+
+
